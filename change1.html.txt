@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html >
+<body text=white bgcolor="black"; >
+<button onclick=" changinginformation()"> Click me!</button>
+<p id="userInfo">Сайтқа қош келдіңіз!</p>
+<head>
+<title>Бокс әлемі </title>
+<div class="foto1" > <img src="https://yt3.ggpht.com/a/AATXAJy01PUpNvGMFLSRiT9ADrl9_zQVo2voVfbIHbUFhZk=s900-c-k-c0xffffffff-no-rj-mo "width="100%" height="100%" >
+</div>
+<form action="https://vk.com/album-74316114_0" method="post" color="red" align=right >
+<pre> <br> Логин <input type="text" >
+<br> Пароль <input type="password"> </pre>
+<p> <input type="submit" value="Вход">
+</form>
+<div class="menu">
+<a href="" class="button"> Басты бет</a>
+<a href=" https://kaz.vesti.kz/boxing/"class="button"> Жаңалықтар</a>
+<a href="https://sport-igrok.ru/blog/boks/chempionyi-mira-po-boksu.html "class="button"> Чемпиондар</a>
+</div>
+<hr color="white" size="3">
+<figure class="fig"> <IMG SRC="https://static4.depositphotos.com/1008336/304/v/950/depositphotos_3044023-stock-illustration-boxing-boxing-ring.jpg" width="100%" height="100%"> <figcaption>
+<h1 align=center color=white;> БОКС-ӨНЕР ЖӘНЕ КОМЕДИЯ БАР, ЖӘНЕ ДРАМА БАР, БІРЕУ ҚУАНАДЫ, БІРЕУ РЕНЖИДІ, ЖӘНЕ БҰЛ ҚАЛЫПТЫ, СЕБЕБІ БІРЕУІ ЖЕҢІП, ЕКІНШІСІ ҰТЫЛАДЫ </h1>
+<style type="text/css">
+ 
+.foto1 {
+width: 20%;
+height: 17%;
+background: white;
+padding: 4px;
+float: left;
+top: -67px;;
+left: 3%;
+}
+. hr {
+border: none;
+color: black;
+background-color: black;
+height: 2px;
+margin: 0 auto ;
+}
+td, th {
+background: maroon;
+padding: 5px;
+}
+.button {
+display: inline-block;
+background: red;
+color:white;
+padding: 10px 15px;
+border-radius:10px;
+text-decoration:none;
+font-family: Arial;
+}
+.button:hover {
+background: #A21318;
+ 
+}
+.button1 {
+display: inline-block;
+background: red;
+color:white;
+padding: 10px 15px;
+border-radius:10px;
+ 
+ 
+}
+.menu {
+border-top:3px solid white;
+padding:20px
+}
+.foto {
+border-radius: 50px;
+width: 103%;
+height: 250px;
+background-color:blue;
+text-align:right
+ 
+}
+.foto23 {
+width: 113%;
+height: 356px;
+background-color:silver;
+position: relative;
+top: 130px;
+left: 0px;
+align="top"
+ 
+}
+.foto24 {
+border-radius: 100%;
+width: 340px;
+height: 357px;
+background-color:black;
+float: left;
+position: relative;
+top: -138px;
+left: -35px
+text-align="right";
+ 
+ 
+}
+.foto1 {
+border-radius: 150px;
+width: 250px;
+height: 250px;
+background-color: blue;
+}
+.foto2 {
+border-radius: 50px;
+width: 103%;
+height: 250px;
+background-color:black;
+}
+.foto3 {
+border-radius: 50px;
+width: 250px;
+height: 250px;
+background-color: black;
+}
+ 
+</style>
+ 
+<P> <IMG SRC="https://i.ytimg.com/vi/MstPvOhyrWM/maxresdefault.jpg" width="100%" height="100%" >
+<h1 align=center color=white;>Бокс ерте Грек елi — Элладамен тығыз байланысты. Аңыздарға сенсек, ол кезеңдегi ең танымал «қолғап иесi» — Тезей болған көрiнедi. Ал Платонның жазуы бойынша, жұдырықтасу өнерiнiң атасы — теңiз құдайы Посейдон мен Мелия есiмдi нимфаның ұлы — Амыкус екен. Ерте Грекияда болған бокстың алғашқы белгiлерiн қыш құмыраларда салынған боксшылардың бейнесi де дәлелдейдi.
+Ал жақында археолог ғалым бiздiң жыл санауымыздан 3 мың жыл бұрын салынған шiркеудiң қабырғаларынан бокс қолғабының суретiн де тауып отыр. Бiр қызығы, ол кезеңдерде кубок жеңiлген боксшыларға берiлген көрiнедi. Айталық, соғыс өнерi десе, сақалын кесуге бар Рим императоры Калигула сонау Африкадан қайратты құлдарды сатып әкелiп, көз алдында қоразша төбелестiредi екен. Императордың екi сүйiктi спортшысы болса керек. Бұл Глаукос пен Меланкомас аталатын алыптар дәл қазiргi бокста қолданылатын бiршама соққы түрлерiне негiз салып кеткен екен.
+ 
+</h1>
+</div>
+</div>
+</div>
+ 
+<hr>
+<hr>
+<p> <IMG sRC="https://thumbs.dreamstime.com/z/boxing-objects-19705339.jpg " width="100%" height="100%" >
+<h1 align=center color=white;> Жекпе-жек қабырғалары ұзындығы 5-тен 6 метрге дейін болатын және 4 қатар канатпен шектелген алаң — рингте өтеді.
+ 
+Жеңіс көп ұпай еншілеген боксшыға; нокаутпен ұтқанға; қарсыласы пәрменсіз болып жекпе-жекті жалғастыра алмағанда, дисквалификацияға ұшырағанда немесе жекпе-жектен бас тартқан жағдайларда беріледі.
+ 
+Бокста белден төмен, желкеден, арқадан ұруға, баспен ұруға және құлап жатқан қарсыласты ұруға тыйым салынады. Жекпе-жекке — ринг ішіндегі бір төреші, сыртындағы 3-5 төреші төрелік жүргізеді
+<hr>
+<hr>
+<style type="text/css">
+.table {
+ 
+ 
+ 
+width: 100%; /* Ширина таблицы */
+background: white; /* Цвет фона таблицы */
+color: white; /* Цвет текста */
+border-spacing: 1px; /* Расстояние между ячейками */
+}
+td, th {
+background: maroon; /* Цвет фона ячеек */
+padding: 5px; /* Поля вокруг текста */
+}
+ 
+.foto4 {
+dorder-radius: 50%;
+width: 103%;
+height: 250px;
+background-color:black;
+text-align:center
+}
+.foto5 {
+dorder-radius: 100%;
+width: 250px;
+height: 250px;
+background-color: black;
+}
+.foto6 {
+dorder-radius: 50%;
+width: 103%;
+height: 250px;
+background-color:black;
+ 
+}
+.foto7 {
+dorder-radius: 100%;
+width: 250px;
+height: 250px;
+background-color: black;
+}
+</style>
+<p> <IMG SRC="https://pbs.twimg.com/media/D4KjSDoX4AItB_k.jpg:large" width="100%" height="100%" >
+ 
+<h1 align=center color=white;> Салмақ дәрежелері
+<hr color="white" size="3">
+<table >
+<pre> <tr><th>Санат</th><th>Салмақ</th></tr>
+<tr><td>Ең аз салмақ-(шыбынның салмағы)<hr>(ағылш.'flyweight)</td><td>112 фунтқа деі(50.8 кг)</td></tr>
+<tr><th>Ең жеңіл салмақ — «қораздың салмағы»
+<hr>(ағылш.'bantamweight')</th><th>118 фунт (53,5 кг.)</th></tr>
+<tr><td>Жартылай жеңіл салмақ — «қауырсынның салмағы»
+<hr>(ағылш.'featherweight')</td><td>126 фунт (57,2 кг.)</td></tr>
+<tr><th>Жеңіл салмақ <hr>(ағылш. 'lightweight')</th><th>135 фунт (61,2 кг.)</th></tr>
+<tr><td>Жартылай орта салмақ <hr>(ағылш. 'welterweight')</td><td>147 фунт (66,7 кг.)</td></tr>
+<tr><th>Орта салмақ <hr>(ағылш. 'middleweight')</th><th>160 фунт (72,6 кг.)</th></tr>
+<tr><td>Жартылай ауыр салмақ <hr>(ағылш. 'light heavyweight')</td><td>175 фунт (79,4 кг.)</td></tr>
+<tr><th>Ауыр салмақ <hr> (ағылш. 'heavyweight')</th><th>175 фунттан жоғары (79,4 кг.)</th></tr></td></pre>
+</table>
+<div class="foto23 ">
+<marquee> Бокс әлемі Жасаған: Алтыншаш пен Балауса </marquee> <p> Менің әлеуметтік желілерім <a href="https://vk.com/feed" Class="rr"> vk </a>
+<div class=" foto24 "> <img src="https://sun9-31.userapi.com/c840427/v840427621/18090/gmdAD3yWQAk.jpg " width="100%" height="100%" >
+ 
+</div>
+</div>
+ 
+<script>
+a= prompt("Esimin kim?")
+document.write(a);
+b= prompt("Bokc jaily aqparat algyn kele me?")
+document.write(b);
+function changinginformation(){
+const userInfo = document.getElementById("userInfo");
+userInfo.innerText = "Сізге ұнады ма?";
+}
+</script>
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+ $("input").focus(function(){
+   $(this).css("background-color", "yellow");
+ });
+ $("input").blur(function(){
+   $(this).css("background-color", "green");
+ });
+});
+</script>
+Name: <input type="text" name="fullname"><br>
+Email: <input type="text" name="email">
+</body>
+</head>
+ 
+</html
